@@ -33,6 +33,7 @@ h2{
   color: white;
   text-decoration: none;
   cursor: default;
+  font-size: 20px;
 }
 .navigation{
   display: flex;
@@ -144,7 +145,7 @@ h2{
   width: 240px;
   height: 100%;
   padding-top: 65px;
-  transition: 0.5s;
+  transition: 0.2s;
 }
 .menu li{
   width: 120%;
@@ -204,11 +205,11 @@ ul.menu li:hover > a{
   color:rgb(0, 0, 0)
 }
 .welcome-message{
-  font-size: 30px;
+  font-size: 25px;
   font-weight: bold;
 }
 .welcome{
-  font-size: 70px;
+  font-size: 50px;
   font-style: italic;
 }
 footer{

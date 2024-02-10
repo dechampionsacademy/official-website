@@ -205,8 +205,7 @@ ul.menu li:hover > a{
 }
 .signin-space{
   background-color: rgba(211, 217, 223, 0.76);
-  width: 60%;
-  margin-left: 120px;
+  width: 50%;
   padding: 30px;
 }
 input{
@@ -253,3 +252,37 @@ input{
   margin-top: -20px;
   margin-bottom: 50px;
 }
+footer{
+  background-color: rgb(85, 28, 138);
+  color: white;
+  position: relative;
+  margin-top: 60px;
+  width: 105%;
+  margin-left: -8px;
+  padding: 28px;
+  margin-bottom: -8px;
+}
+.sign{
+  margin-left: 3px;
+  background-color: white;
+  border-color: rgb(127, 57, 194);
+  padding: 8px;
+  border-style: solid;
+  border-width: 3px;
+  color: rgb(85, 28, 138);
+  border-radius: 7px;
+  cursor: pointer;
+  transition: 0.5s;
+  font-weight: bold;
+}
+.sign:hover{
+  background-color: rgb(85, 28, 138);
+  color: white;
+  transition: 0.5s;
+  border-color: white;
+}
+.sign:active{
+  background-color: rgba(148, 123, 170, 0.411);
+}
+
+

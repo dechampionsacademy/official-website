@@ -33,6 +33,7 @@ h2{
   color: white;
   text-decoration: none;
   cursor: default;
+  font-size: 20px;
 }
 .navigation{
   display: flex;
@@ -144,7 +145,7 @@ h2{
   width: 240px;
   height: 100%;
   padding-top: 65px;
-  transition: 0.5s;
+  transition: 0.3s;
 }
 .menu li{
   width: 120%;
@@ -247,12 +248,12 @@ table, td, th, tr{
   width: 70%;
   border-style: solid;
   border-color: black;
-  font-size: 22px;
+  font-size: 18px;
   padding: 7px;
 }
 th{
   border-right: none;
-  font-size: 30px;
+  font-size: 25px;
 }
 table{
   margin-bottom: 30px;

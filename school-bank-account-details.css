@@ -33,6 +33,7 @@ h2{
   color: white;
   text-decoration: none;
   cursor: default;
+  font-size: 20px;
 }
 .navigation{
   display: flex;
@@ -144,7 +145,7 @@ h2{
   width: 240px;
   height: 100%;
   padding-top: 65px;
-  transition: 0.5s;
+  transition: 0.3s;
 }
 .menu li{
   width: 120%;
